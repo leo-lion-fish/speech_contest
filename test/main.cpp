@@ -12,7 +12,8 @@ int main()
 	//	cout << "选手编号：" << it->first
 	//		<< " 姓名： " << it->second.m_Name
 	//		<< " 成绩： " << it->second.m_Score[0] << endl;
-	//}
+	//}
+
 	int choice=0;
 	while (true)
 	{
